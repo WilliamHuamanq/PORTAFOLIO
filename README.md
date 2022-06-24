@@ -1,5 +1,6 @@
 # PORTAFOLIO
 https://github.com/account
+
 Soy Estudiante de la carrera de Ingeniería en Telecomunicaciones de la Universidad Nacional de San Agustin de Arequipa.
 
 Soy entusiasta con respecto a la Ciencia de Datos y Programación en lenguaje Python. Realizo mis proyectos en el Sistema Operativo Linux, con JupyterNotebook.
