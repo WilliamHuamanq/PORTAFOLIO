@@ -1,6 +1,6 @@
 # PORTAFOLIO
 
-(https://github.com/WilliamHuamanq/PORTAFOLIO/blob/master/foto.jpg)
+https://github.com/WilliamHuamanq/PORTAFOLIO/blob/master/foto.jpg
 
 Soy Estudiante de la carrera de Ingeniería en Telecomunicaciones de la Universidad Nacional de San Agustin de Arequipa.
 
