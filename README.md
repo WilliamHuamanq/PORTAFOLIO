@@ -1,6 +1,5 @@
 # PORTAFOLIO
 
-[![foto.jpg](https://i.postimg.cc/1XvJs4vm/foto.jpg)](https://postimg.cc/4Hhz14Cq)
 
 Soy Estudiante de la carrera de Ingeniería en Telecomunicaciones de la Universidad Nacional de San Agustin de Arequipa.
 
